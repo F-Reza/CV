@@ -1,7 +1,7 @@
 # CV
-###HTML &amp; Web Engineering Lab### 
-   CV_Lab-3 Class work.
-Live Preview https://f-reza.github.io/CV/
+###HTML &amp; Web Engineering Lab###          
+   ****CV_Lab-3 Class work.                                                                      
+****Live Preview https://f-reza.github.io/CV/
 
 ######################################################################
 
