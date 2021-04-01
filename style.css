@@ -1,0 +1,285 @@
+/* ====== Main CSS=====*/
+/*---------------------
+Authorized::Forhad Reza
+-----------*/
+*{margin:0;padding:0}
+
+#main-wrapper{
+	margin:0 auto;
+	width:960px;
+	height:auto;
+	display:block;
+	background:#444;
+	font-family:Georgia;
+}
+
+#Title{
+	width:100%;
+	height:150px;
+	display:block;
+	background:;
+	position:relative;
+}
+.title{
+	font-size:45px;
+	position:absolute;
+	top:35px;
+	left:60px;
+}
+.sub_title{
+	font-size:16px;
+	position:absolute;
+	top:90px;
+	left:65px;
+	font-style:italic;
+	color:#fff;
+}
+.btn_pdf{
+	width:180px;
+	height:auto;
+	padding:5px;
+	border:;
+	background:#555;
+	font-size:16px;
+	
+	position:absolute;
+	right:135px;
+	top:40px;
+}
+.btn_pdf:hover{
+	background:green;
+	transition:all 1s ease;
+}
+.Email a{
+	text-decoration:none;
+	padding:2px;
+	position:absolute;
+	right:130px;
+	top:82px;
+	color:#fff;
+}
+.Email a:hover{
+	background:blue;
+	transition:all 2s ease;
+}
+.Tel a{
+	text-decoration:none;
+	padding:2px;
+	position:absolute;
+	right:173px;
+	top:107px;
+	color:#fff;
+}
+.Tel a:hover{
+	background:blue;
+	transition:all 2s ease;
+}
+
+
+#Profile{
+	width:100%;
+	height:150px;
+	display:block;
+	background:;
+	position:relative;
+	
+}
+.Tag1{
+	font-style:italic;
+	padding:60px;
+	font-size:28px;
+	position:absolute;
+	left:10px;
+	color:#fff;
+	
+}
+.About{
+	padding:2px;
+	position:absolute;
+	left:240px;
+	top:50px;
+	margin-right:100px;
+}
+
+#Skills{
+	width:100%;
+	height:200px;
+	display:block;
+	background:;
+	position:relative;
+	
+}
+.Tag2{
+	font-style:italic;
+	padding:60px;
+	font-size:28px;
+	position:absolute;
+	left:10px;
+	
+}
+.table1{
+	border-collapse:collapse;
+	position:absolute;
+	left:240px;
+	top:30px;
+	width:640px;
+}
+.table1 td{
+	padding:5px 5px 0 0;
+}
+.table1 th{
+	padding-bottom:5px;
+}
+
+
+#Technical{
+	width:100%;
+	height:150px;
+	display:block;
+	background:;
+	position:relative;
+	
+}
+.Tag3{
+	font-style:italic;
+	padding:60px;
+	font-size:28px;
+	position:absolute;
+	left:10px;
+	
+}
+.table2{
+	border-collapse:collapse;
+	position:absolute;
+	right:90px;
+	top:30px;
+}
+.table2 td{
+	padding:10px 90px 5px 0;
+	border-bottom:.5px solid black;
+}
+
+
+
+#Experience{
+	width:100%;
+	height:160px;
+	display:block;
+	background:;
+	position:relative;
+	
+}
+.Tag4{
+	font-style:italic;
+	padding:60px;
+	font-size:28px;
+	position:absolute;
+	left:10px;
+}
+.show{
+	padding:2px;
+	position:absolute;
+	margin-right:85px;
+	left:240px;
+	top:50px;
+	font-size:19px;
+}
+.show1{
+	padding:2px;
+	position:absolute;
+	margin-right:85px;
+	left:240px;
+	top:190px;
+	font-size:18px;
+}
+span.T{
+	font-size:17px;
+	margin-bottom:20px;
+}
+span.T1{
+	position:absolute;
+	font-size:17px;
+	right:0px;
+}
+span.T2{
+	margin-top:10px;
+	font-size:16px;
+}
+
+#Add{
+	width:100%;
+	height:350px;
+	display:block;
+	background:;
+	position:relative;
+	
+}
+
+#Education{
+	width:100%;
+	height:160px;
+	display:block;
+	background:;
+	position:relative;
+	
+}
+.Tag5{
+	font-style:italic;
+	padding:60px;
+	font-size:28px;
+	position:absolute;
+	left:10px;
+	
+}
+
+.table3{
+	border-collapse:collapse;
+	position:absolute;
+	left:240px;
+	top:30px;
+}
+.table3 td{
+	padding:5px 50px 5px 0;	
+}
+.table3 th{
+	padding-bottom:5px;
+}
+
+
+
+
+
+/*--Header--*/
+
+#header{
+	max-height:px;
+	margin-bottom:15px;
+	border-radius:0 0 100px 0;
+	display:block;
+	background:#673AB7;
+	text-align:center;
+	padding:15px;
+}
+/*--Footer--*/
+#footer{
+	display:block;
+	background:#5E5E5E;
+	margin-top:15px;
+	width:100%;
+	height:40px;
+}
+#footer p{
+	color:#fff;
+	text-align:center;
+	padding:10px 20px;
+}
+#footer p a{
+	text-decoration:none;
+	color:#3333FF;
+}
+#footer p a:hover {
+	color:red;
+}
+/*---------------------
+Authorized::Forhad Reza
+-----------*/
